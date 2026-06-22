@@ -1,16 +1,70 @@
-## Hi there 👋
+Привет, я Никита 👋
 
-<!--
-**MishNick/MishNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Python / Backend / Fullstack-разработчик из Екатеринбурга.
+Интересуюсь backend-разработкой, автоматизацией бизнес-процессов, веб-сервисами, Telegram-ботами и проектами, связанными с БПЛА.
 
-Here are some ideas to get you started:
+Сейчас ищу позицию Junior-разработчика или стажировку, где смогу развиваться в backend/fullstack-разработке, работать с реальными задачами и постепенно усиливать техническую базу.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Основной стек
+
+Backend: Python, FastAPI, Flask, REST API
+Базы данных: PostgreSQL, MySQL, SQLite, базовый SQL
+Frontend: HTML, CSS, JavaScript basics
+Автоматизация: Telegram Bot API, интеграции, обработка заявок, уведомления
+Проектирование: BPMN, IDEF0, ER-диаграммы, анализ бизнес-процессов
+Инструменты: Git basics, Linux/Raspberry Pi, SSH/SFTP, MobaXterm
+Дополнительно: TensorFlow basics, 1С integration, UAV-related projects
+
+Ключевые проекты
+Service Centre Automation System
+
+Веб-сервис и мобильная часть для автоматизации обработки заявок сервисного центра.
+Проект разрабатывался в рамках дипломной работы и преддипломной практики в ООО «Дико Плюс».
+
+Что реализовано:
+
+авторизация и роли пользователей;
+создание и обработка заявок;
+статусы заказов;
+личные кабинеты;
+уведомления;
+отчеты;
+интеграция с 1С;
+мобильная часть;
+система межотдельной коммуникации.
+
+Результат: время обработки заявки уменьшилось на 25%.
+
+Репозиторий: https://github.com/MishNick/service_centre
+
+Telegram Bots
+
+Проекты Telegram-ботов для бизнес-задач:
+
+бронирование столиков для заведений;
+регистрация заявок для грузоперевозок;
+авторизация пользователей в веб-сервисе;
+автоматизация взаимодействия с клиентами.
+UAV Server Project
+
+Проект, связанный с серверной частью для управления БПЛА.
+
+Что делал:
+
+связь БПЛА с центральным сервером;
+настройка Raspberry Pi;
+мониторинг;
+обмен файлами;
+работа с SSH/SFTP;
+backend на Python, FastAPI/Flask.
+Что мне интересно
+Python backend-разработка;
+FastAPI / Flask;
+автоматизация бизнес-процессов;
+внутренние корпоративные системы;
+Telegram-боты и интеграции;
+проекты на стыке backend и устройств: Raspberry Pi, БПЛА, мониторинг.
+Контакты
+Telegram: @MishNick
+Email: vtacho@mail.ru
+GitHub: https://github.com/MishNick
